@@ -68,7 +68,9 @@ Follow the on-screen instructions to navigate through the program's features. Ch
 ## Configuration
 
 The Bank Account Management System doesn't require extensive configuration. However, you can customize certain parameters in the code, such as database connections or encryption algorithms, to suit your specific needs.
-In my code, I used .txt files as database to store data like USERS ACCOUNTS and MONEY TRANSFERS.
+In my code, I used .txt files as database to store data like USERS ACCOUNTS and MONEY TRANSFERS. <br>
+### REMARK :
+I used 'CODEBLOCKS'
 
 
 
