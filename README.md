@@ -24,10 +24,45 @@ The Bank Account Management System is a robust C program designed to provide use
 ## Usage
 
 Follow the on-screen instructions to navigate through the program's features. Choose between user and admin modes and explore the various banking operations. <br> 
-***Important! :*** To LOG IN as an administrator you should enter those configurations :
+***Important! :*** <br>
+1/ Here are some users accounts: 
+- **USERNAME:** rayen
+- **PASSWORD:** rayen <br>
+- **USERNAME:** salim
+- **PASSWORD:** salim <br>
+- **USERNAME:** karim
+- **PASSWORD:** karim <br> <br> <br>
+![Capture user](https://github.com/rayenne11/E-Bank-/assets/66142092/b3e3eee5-4b91-476b-8160-017ec0304ba9)
+<br>
+
+### To sign IN 
+
+![Capture Enter Acc](https://github.com/rayenne11/E-Bank-/assets/66142092/f4e16719-e8d6-49fc-a03a-0f915e81e7e9)
+
+<br> <br>
+
+### User informations 
+
+![Capture rayen acc](https://github.com/rayenne11/E-Bank-/assets/66142092/4e8fbc81-dff2-4165-84fb-e3503717cc10)
+<br> <br>
+
+
+
+
+2/ To LOG IN as an administrator you should enter those configurations :
 - **USERNAME:** admin
 - **PASSWORD:** admin <br> <br>
 ![Capture admiiin](https://github.com/rayenne11/E-Bank-/assets/66142092/fead9a9d-2a66-4aa4-bf75-07738a76ac2c)
+<br> <br> <br>
+### As an administrator you have those choices
+![admin choices](https://github.com/rayenne11/E-Bank-/assets/66142092/11d27733-7168-4958-a34f-de0f14e9ea0a)
+
+
+
+<br>
+
+
+
 
 
 ## Configuration
