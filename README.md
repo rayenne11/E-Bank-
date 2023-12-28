@@ -41,7 +41,7 @@ Follow the on-screen instructions to navigate through the program's features. Ch
 
 <br> <br>
 
-### User informations 
+### User choices & informations 
 
 ![Capture rayen acc](https://github.com/rayenne11/E-Bank-/assets/66142092/4e8fbc81-dff2-4165-84fb-e3503717cc10)
 <br> <br>
