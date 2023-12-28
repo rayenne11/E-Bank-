@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1703634606 source:c:\users\user\desktop\test pour c\test\cprojete-bank\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1703796371 source:c:\users\user\desktop\cprojete-bank\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
